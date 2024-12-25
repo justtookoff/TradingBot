@@ -2,3 +2,4 @@ pylint
 alpaca-py
 yfinance
 matplotlib
+python-decouple
